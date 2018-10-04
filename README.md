@@ -33,4 +33,4 @@
     - 5호선  
     - 통학  
 
-![Alt text] C:\Users\okey3\Desktop\창의공
+![마인드맵](https://blog.naver.com/okeycsy/221371033800)
