@@ -33,4 +33,6 @@
     - 5호선  
     - 통학  
 
-![마인드맵](https://blog.naver.com/okeycsy/221371033800)
+![default](https://user-images.githubusercontent.com/43840627/46467224-2cb2a980-c808-11e8-9f3a-2b844760e3d6.jpg)
+
+
